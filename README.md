@@ -25,7 +25,9 @@ localhost:8080/h2-console
 And have the JBDC URL as:
 
 jdbc:h2:mem:todoapp
+
 ------
+
 And after getting the dependencies for React side of the project, you could run the React application by writing in the terminal:
 
 npm start
