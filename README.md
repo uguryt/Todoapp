@@ -34,4 +34,4 @@ npm start
 
 After starting your project it should open the main page in your web browser.
 
-# CORS policy will makes things hard for frontend so i suggest using Moesif Origin extention in your web browser.
+# CORS policy will makes things hard for frontend so i suggest using Moesif Origin extension in your web browser.
