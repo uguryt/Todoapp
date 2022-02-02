@@ -1,11 +1,11 @@
-#Dependencies for Spring
+# Dependencies for Spring
 
 Spring Data JPA
 Spring Web
 Lombok
 H2 Database
 
-#NPM Dependencies
+# NPM Dependencies
 
 react
 react-router-dom
