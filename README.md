@@ -5,6 +5,7 @@ Dependencies for Spring:
   Spring Web
   Spring Data JPA
   H2 Database
+
 Required node modules:
   
   react
